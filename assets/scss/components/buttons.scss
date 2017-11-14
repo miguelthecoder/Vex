@@ -1,13 +1,13 @@
 .button {
-  background-color: $color-sunset-orange;
-  border: 2px solid $color-sunset-orange;
+  background-color: $color-my-sin;
+  border: 2px solid $color-my-sin;
   border-radius: 999px;
   height: 40px;
   line-height: 36px;
   padding-top: 0;
   padding-bottom: 0;
   font-size: 14px;
-  font-family: $font-secondary;
+  font-family: $font-primary;
 
   &.secondary {
     background-color: transparent;
@@ -21,7 +21,7 @@
   &.partners {
     margin-top: 20px;
     background-color: white;
-    color: $color-sunset-orange;
-    border: 2px solid $color-sunset-orange;
+    color: #feb648;
+    border: 2px solid #feb648;
   }
 }

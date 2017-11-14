@@ -1,0 +1,18 @@
+.header {
+}
+.logo {
+  padding-left: 14px;
+  font-size: 25px;
+  line-height: 29px;
+  color: $color-black;
+}
+.inline-list {
+  font-family: $font-primary;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 16px;
+  padding-top: 17px;
+  a {
+    color: $color-black;
+  }
+}
